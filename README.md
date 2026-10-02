@@ -4,9 +4,9 @@ VRChatの写真撮影に合わせて、設定した1〜5秒の動画を残す Wi
 
 ## ダウンロード
 
-**[Windows用インストーラーをダウンロード（v0.1.25）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v0.1.25/VRVlogForVRC-0.1.25-Setup.exe)**
+**[Windows用インストーラーをダウンロード（v0.1.26）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v0.1.26/VRVlogForVRC-0.1.26-Setup.exe)**
 
-ダウンロードした `VRVlogForVRC-0.1.25-Setup.exe` を実行してください。既存環境には上書きして更新できます。
+ダウンロードした `VRVlogForVRC-0.1.26-Setup.exe` を実行してください。既存環境には上書きして更新できます。
 
 [最新版の変更内容](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/latest)
 
@@ -18,4 +18,6 @@ VRChatの写真撮影に合わせて、設定した1〜5秒の動画を残す Wi
 
 v0.1.17〜v0.1.18からの更新が起動時に進まない場合は、上のインストーラーを手動で実行してください。v0.1.16以前からの更新もインストーラーを手動で実行してください。
 
-素材と設定の保存先：`%LOCALAPPDATA%\VRVlogForVRC`
+設定・編集データの保存先：`%LOCALAPPDATA%\VRVlogForVRC`
+
+動画とJPEG写真の標準保存先は `%LOCALAPPDATA%\VRVlogForVRC\clips` です。「接続と設定」から変更できます。変更前に保存した素材は元の場所に残り、引き続きライブラリから利用できます。
