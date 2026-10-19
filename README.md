@@ -2,11 +2,13 @@
 
 VRChatの写真撮影に合わせて、設定した1〜5秒の動画を残す Windows アプリです。Windows 10 22H2以降・Windows 11（x64）に対応しています。
 
+撮影した動画をまとめて書き出す際に、MP3のBGMを追加できます。開始位置・音量・ループ・フェードアウトを調整し、波形と試聴で確認できます。
+
 ## ダウンロード
 
-**[Windows用インストーラーをダウンロード（v0.1.41）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v0.1.41/VRVlogForVRC-0.1.41-Setup.exe)**
+**[Windows用インストーラーをダウンロード（v0.1.44）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v0.1.44/VRVlogForVRC-0.1.44-Setup.exe)**
 
-ダウンロードした `VRVlogForVRC-0.1.41-Setup.exe` を実行してください。既存環境には上書きして更新できます。
+ダウンロードした `VRVlogForVRC-0.1.44-Setup.exe` を実行してください。既存環境には上書きして更新できます。
 
 [最新版の変更内容](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/latest)
 
