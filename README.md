@@ -6,11 +6,13 @@ VRChatの写真撮影に合わせて、設定した1〜5秒の動画を残す Wi
 
 時刻とコメントのフォントを別々に選べます。標準・Zen Maru Gothic・しっぽりアンティーク・Noto Sans JPに加えて、手元の静的TTF／OTF（64MB以下）も取り込めます。設定は動画ごとに保存し、プレビューと書き出しに反映します。
 
+ライブラリに手元の動画・画像を取り込み、お気に入りだけに絞り込めます。画像をシーンとして使ったり、動画に重ねたりできます。
+
 ## ダウンロード
 
-**[Windows用インストーラーをダウンロード（v0.1.48）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v0.1.48/VRVlogForVRC-0.1.48-Setup.exe)**
+**[Windows用インストーラーをダウンロード（v1.0.0）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v1.0.0/VRVlogForVRC-1.0.0-Setup.exe)**
 
-ダウンロードした `VRVlogForVRC-0.1.48-Setup.exe` を実行してください。既存環境には上書きして更新できます。
+ダウンロードした `VRVlogForVRC-1.0.0-Setup.exe` を実行してください。既存環境には上書きして更新できます。
 
 [最新版の変更内容](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/latest)
 
