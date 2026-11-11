@@ -10,9 +10,9 @@ VRChatの写真撮影に合わせて、設定した1〜5秒の動画を残す Wi
 
 ## ダウンロード
 
-**[Windows用インストーラーをダウンロード（v1.0.6）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v1.0.6/VRVlogForVRC-1.0.6-Setup.exe)**
+**[Windows用インストーラーをダウンロード（v1.0.7）](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/download/v1.0.7/VRVlogForVRC-1.0.7-Setup.exe)**
 
-ダウンロードした `VRVlogForVRC-1.0.6-Setup.exe` を実行してください。既存環境には上書きして更新できます。
+ダウンロードした `VRVlogForVRC-1.0.7-Setup.exe` を実行してください。既存環境には上書きして更新できます。
 
 [最新版の変更内容](https://github.com/mitsuya0077/vrvlogforvrc-installer/releases/latest)
 
